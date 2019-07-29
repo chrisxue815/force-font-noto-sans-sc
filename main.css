@@ -5,6 +5,11 @@
 }
 
 @font-face {
+    font-family: Content-font;
+    src: local(Noto Sans SC), local(Noto Sans SC Regular), local(Noto Sans CJK SC), local(Source Han Sans SC);
+}
+
+@font-face {
     font-family: "Hiragino Sans GB";
     src: local(Noto Sans SC), local(Noto Sans SC Regular), local(Noto Sans CJK SC), local(Source Han Sans SC);
 }
